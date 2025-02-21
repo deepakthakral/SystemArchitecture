@@ -88,4 +88,4 @@ sequenceDiagram
   Database-->>Terminal: Customer data
 ```
 ## Component Diagrams
-![Component Diagram](/Images/ComponentDiagram.png)
+![Component Diagram](/ComponentDiagram.png)
