@@ -13,4 +13,4 @@ This Includes -
 6. System's data structure, supported by an Entity-Relationship Diagram (ERD) thatillustrates the relationships between data entities.
 
 
-![Payment Process Data Flow](/Images/paymentprocess-datahub.png)
+![Payment Process Data Flow](/paymentprocess-datahub.png)
