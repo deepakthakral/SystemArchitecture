@@ -20,7 +20,7 @@ Non-functional aspects:
 
 
 ## Functional Flow
-![Functional Flow](/Images/FunctionalFlow.png)
+![Functional Flow](/FunctionalFlow.png)
 
 ## Functional Sub Flow 
-![Functional Sub Flow](/Images/FunctionalSubFlow.png)
+![Functional Sub Flow](/FunctionalSubFlow.png)
