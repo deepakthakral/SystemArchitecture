@@ -5,4 +5,4 @@
 3. Throttling and SLAs if available.
 
 
-![Swagger API Flow](/Images/Swagger_API.png)
+![Swagger API Flow](/Swagger_API.png)
