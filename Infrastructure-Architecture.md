@@ -8,5 +8,5 @@
  4. Details of Production & Non-Production environment.
  
  5. Deployment & Release Approach
-
- ![Deployment Architecture](/Infra Architecture.png)
+ 
+ ![Deployment Architecture](/InfraArchitecture.png)
