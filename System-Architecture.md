@@ -10,7 +10,7 @@ This includes -
 4. Highlights the interfaces, inputs, outputs, or interactions with other components.
 
 ## Logical Architecture Flow
-![Logical Architecture](/Images/Logical Architecture.png)
+![Logical Architecture](/LogicalArchitecture.png)
 
 
 ## Application Flow
