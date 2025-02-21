@@ -9,4 +9,4 @@
  
  5. Deployment & Release Approach
 
- ![Deployment Architecture](/Images/Infra Architecture.png)
+ ![Deployment Architecture](/Infra Architecture.png)
