@@ -10,4 +10,4 @@
 
 6. System's comprehensive auditing and secrets management processes
 
-![Security Architecture](/Images/SecurityArch.png)
+![Security Architecture](/SecurityArch.png)
